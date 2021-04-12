@@ -31,13 +31,6 @@
 <p align="center">
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DanielFariias)](https://github.com/DanielFariias/github-readme-stats)
-  
-</p>
-
-
-<p align="center">
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFariias&layout=compact)](https://github.com/DanielFariias/github-readme-stats)
-  
-</p>
 
+</p>
