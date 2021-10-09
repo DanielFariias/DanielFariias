@@ -9,7 +9,7 @@
 - ⏳  I'm 20 years old
 - 💙  My preferred language is Javascript
 - 🎮  my hobby is play games
-- 🌱  I’m currently learning *React and Typescript*
+- 🌱  I’m currently learning *NextJS and Typescript*
 
 ### 📊  2021 Goals:
    - 📂  Expand my portfolio
