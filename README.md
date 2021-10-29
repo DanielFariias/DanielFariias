@@ -1,6 +1,8 @@
 <p align="left">
 <h1 align ="center">Hello! I'm Daniel Farias</h1>
 
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="500px" width="500px" align="right" alt="Computer Daniel Farias">
 
 <h3> Front-end Developer & Computer Engineering Student</h3>
