@@ -31,6 +31,8 @@
   <img src="https://img.shields.io/badge/github-171516?style=for-the-badge&logo=github&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/react-61DBFB.svg?&style=for-the-badge&logo=react&logoColor=white" height="25"/>
   <img src ="https://img.shields.io/badge/typescript-007ACC?&logo=TypeScript&style=for-the-badge&logoColor=white" height ="25"/>
+  <img src ="https://img.shields.io/badge/-NextJS%20-black?style=for-the-badge&logo=vercel&logoColor=white" height ="25"/>
+  <img src ="https://img.shields.io/badge/-figma%20-red?style=for-the-badge&logo=figma&logoColor=white" height ="25"/>
 </p>
 
  <h3 align="center">⭐  Statistics and Languages</h3>
