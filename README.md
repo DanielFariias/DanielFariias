@@ -3,12 +3,12 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="500px" width="500px" align="right" alt="Computer Daniel Farias">
 
-<h3> Front-end Developer & Computer Engineering Student</h3>
+<h3> Front-end Developer & Instructor Person at Trybe</h3>
 
 ### 🧑🏻 About me
 - ⏳  I'm 21 years old
 - 💙  My preferred language is Javascript
-- 🎮  my hobby is play games
+- 🎮  My hobby is play games
 - 🌱  I’m currently learning *NodeJS and Typescript*
 
 ### 📊  2022 Goals:
