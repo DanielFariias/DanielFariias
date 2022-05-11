@@ -6,14 +6,15 @@
 <h3> Front-end Developer & Computer Engineering Student</h3>
 
 ### 🧑🏻 About me
-- ⏳  I'm 20 years old
+- ⏳  I'm 21 years old
 - 💙  My preferred language is Javascript
 - 🎮  my hobby is play games
-- 🌱  I’m currently learning *NextJS and Typescript*
+- 🌱  I’m currently learning *NodeJS and Typescript*
 
-### 📊  2021 Goals:
+### 📊  2022 Goals:
    - 📂  Expand my portfolio
-   - 🤝  Get a Job
+   - 🤝  Grow in my work
+   - 👨🏻‍💻  Make more networking
    - 📈  Improve My Skills
 <p/>
 
