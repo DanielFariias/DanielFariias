@@ -1,7 +1,5 @@
 ![Header](https://github.com/DanielFariias/DanielFariias/blob/main/.github/github-header-image.png)
 
----
-
 ### Instructor Person at Trybe</h3>
 
 ### 🧑🏻 About me
