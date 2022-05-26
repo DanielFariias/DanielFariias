@@ -1,10 +1,8 @@
 ![Header](https://github.com/DanielFariias/DanielFariias/blob/main/.github/github-header-image.png)
 
-<p float="center">
-   
-<img src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif" min-width="500px" max-width="500px" width="500px" alt="Computer Daniel Farias">
+---
 
-<h3>Instructor Person at Trybe</h3>
+### Instructor Person at Trybe</h3>
 
 ### 🧑🏻 About me
 - ⏳  I'm 21 years old
@@ -17,7 +15,7 @@
    - 🤝  Grow in my work
    - 👨🏻‍💻  Make more networking
    - 📈  Improve My Skills
-<p/>
+
 
 ### 📚  Stack I Work With
 
