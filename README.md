@@ -1,8 +1,8 @@
 ![Header](https://github.com/DanielFariias/DanielFariias/blob/main/.github/github-header-image.png)
 
-<p align="left">
+<p float="center">
    
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="500px" width="500px" align="right" alt="Computer Daniel Farias">
+<img src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif" min-width="500px" max-width="500px" width="500px" alt="Computer Daniel Farias">
 
 <h3>Instructor Person at Trybe</h3>
 
