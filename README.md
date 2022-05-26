@@ -14,8 +14,6 @@
    - 👨🏻‍💻  Make more networking
    - 📈  Improve My Skills
 
----
-
 ### 📚  Stack I Work With
 
 <p align="left">
