@@ -3,10 +3,16 @@
 ### Instructor Person at Trybe</h3>
 
 ### 🧑🏻 About me
-- ⏳  I'm 21 years old
-- 💙  My preferred language is Javascript
-- 🎮  My hobby is play games
-- 🌱  I’m currently learning *NodeJS and Typescript*
+  - ⏳  I'm 21 years old
+  - 💙  My preferred language is Javascript
+  - 🎮  My hobby is play games
+  - 🌱  I’m currently learning *NodeJS and Typescript*
+
+### 📊  2022 Goals:
+  - 📂  Expand my portfolio
+  - 🤝  Grow in my work
+  - 👨🏻‍💻  Make more networking
+  - 📈  Improve My Skills
 
 ### 📚  Stack I Work With
 
