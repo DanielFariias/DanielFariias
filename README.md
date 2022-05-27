@@ -8,12 +8,6 @@
 - 🎮  My hobby is play games
 - 🌱  I’m currently learning *NodeJS and Typescript*
 
-### 📊  2022 Goals:
-   - 📂  Expand my portfolio
-   - 🤝  Grow in my work
-   - 👨🏻‍💻  Make more networking
-   - 📈  Improve My Skills
-
 ### 📚  Stack I Work With
 
 <p align="left">
