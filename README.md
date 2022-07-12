@@ -17,7 +17,7 @@
 <p>🔭 I'm currently working at <a href="https://www.betrybe.com/">Trybe</a></p>
 <p>🌱 I'm currently learning Node-JS</p>
 <p>💬 Ask me about Front-End Development</p>
-<p>⚡ Fun Fact: I love ducks</p>
+<p>⚡ Fun Fact: I love ducks 🦆</p>
 
 ## 💻 Skills
 <p>
