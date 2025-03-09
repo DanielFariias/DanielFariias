@@ -1,25 +1,25 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /> Hii, it's a pleasure to have you here, Welcome!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /> Olá, é um prazer ter você aqui, bem-vindo!
 
-<img width="100%" src="https://i.imgur.com/cjlXnWr.png" alt="my banner">
+<img width="100%" src="https://imgur.com/cFKprCk.png" alt="my banner">
+
 
 <div>
    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" align="right"/>
   <p align="left">
-    My name is Daniel Farias, I'm 21 years old, and I'm passionate about technology, systems development and pretty screens. 
-    I'm a Front-End web developer and I'm specializing in Back-End development to work as a fullstack.
-    I'm from a small town in the interior of Fortaleza-CE and I really like going out with my friends, meeting people and doing new activities. I love contributing to projects and helping my friends with everyday challenges, especially getting involved in code hahaha. I believe that collaboration is always the best way to go far!!!
+      Tenho 24 anos e sou apaixonado por tecnologia, desenvolvimento de sistemas e interfaces bonitas.
+      Sou desenvolvedor web FullStack e especialista em Front-End.
+      Sou de uma pequena cidade no interior de Fortaleza-CE e gosto muito de sair com meus amigos, conhecer novas pessoas e experimentar novas atividades. Amo contribuir com projetos e ajudar meus           amigos nos desafios do dia a dia, especialmente quando envolve código hahaha. Acredito que a colaboração é sempre o melhor caminho para ir longe!!!
   </p>
 </div>
 
 
 
-## 💫 Liitle Bit More About Me
-<p>🔭 I'm currently working at <a href="https://vistacapital.com.br/">Vista Capital</a></p>
-<p>🌱 I'm currently learning Node-JS</p>
-<p>💬 Ask me about Front-End Development</p>
-<p>⚡ Fun Fact: I love ducks 🦆</p>
+## 💫 Um Pouco Mais Sobre Mim
+<p>🌱 Atualmente estou aprendendo Devops e AWS</p>
+<p>💬 Pergunte-me sobre Desenvolvimento Front-End e Mobile</p>
+<p>⚡ Curiosidade: Eu amo patos 🦆</p>
 
-## 💻 Skills
+## 💻 Habilidades
 <p>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px">
@@ -42,7 +42,7 @@
 
 </p>
 
-## 🌟 Github Stats
+## 🌟 Troféus do GitHub
  <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=danielfariias&count_private=true&show_icons=true&title_color=3483d8&bg_color=22272e&hide_border=true&theme=dracula" alt="Daniel Farias" width="420"/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfariias&langs_count=8&layout=compact&title_color=3483d8&bg_color=22272e&hide_border=true&theme=dracula" alt="Daniel Farias" height="165" />
@@ -55,7 +55,7 @@
  <img src="https://github-profile-trophy.vercel.app/?username=danielfariias&theme=discord&row=1" alt="Daniel Farias" />
 </p>
 
-## 👥 Connect With Me
+## 👥 Conecte-se Comigo
 <p align="center">
 <a href="https://www.linkedin.com/in/danielfariias/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://www.instagram.com/daniel.fariias/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
